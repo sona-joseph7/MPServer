@@ -1,0 +1,121 @@
+{
+  "uploadVideos": [
+    {
+      "id": "37ca",
+      "caption": "Jigra",
+      "imgUrl": "https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8-1200-80.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/K24lUqcT0Ms"
+    }
+  ],
+  "categories": [
+    {
+      "id": "b978",
+      "categoryName": "Films",
+      "allVideos": []
+    },
+    {
+      "id": "c947",
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "41b1",
+          "caption": "Mufasa",
+          "imgUrl": "https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2024/12/5-8.jpg?ssl=1",
+          "youtubeLink": "https://www.youtube.com/embed/o17MF9vnabg"
+        },
+        {
+          "id": "5159",
+          "caption": "Kal Ho Naa Ho",
+          "imgUrl": "https://wallpapercave.com/wp/wp7647996.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/tVMAQAsjsOU"
+        }
+      ]
+    },
+    {
+      "id": "1afe",
+      "categoryName": "Trips",
+      "allVideos": [
+        {
+          "id": "37ca",
+          "caption": "Jigra",
+          "imgUrl": "https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8-1200-80.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/K24lUqcT0Ms"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "d105",
+      "caption": "Kal Ho Naa Ho",
+      "youtubeLink": "https://www.youtube.com/embed/tVMAQAsjsOU",
+      "timeStamp": "12/19/2024, 1:32:39 PM GMT+5:30"
+    },
+    {
+      "id": "0e96",
+      "caption": "Rio 2",
+      "youtubeLink": "https://www.youtube.com/embed/leJuOObuCxM",
+      "timeStamp": "12/20/2024, 12:36:34 PM GMT+5:30"
+    },
+    {
+      "id": "a10a",
+      "caption": "Godha",
+      "youtubeLink": "https://www.youtube.com/embed/hnICGugY6fI",
+      "timeStamp": "12/20/2024, 12:36:59 PM GMT+5:30"
+    },
+    {
+      "id": "92e9",
+      "caption": "Godha",
+      "youtubeLink": "https://www.youtube.com/embed/hnICGugY6fI",
+      "timeStamp": "12/29/2024, 6:35:13 PM GMT+5:30"
+    },
+    {
+      "id": "bc8d",
+      "caption": "css",
+      "youtubeLink": "https://www.youtube.com/embed/K24lUqcT0Ms",
+      "timeStamp": "12/29/2024, 6:37:10 PM GMT+5:30"
+    },
+    {
+      "id": "b1e6",
+      "caption": "Kal Ho Naa Ho",
+      "youtubeLink": "https://www.youtube.com/embed/tVMAQAsjsOU",
+      "timeStamp": "12/29/2024, 6:37:42 PM GMT+5:30"
+    },
+    {
+      "id": "ddcc",
+      "caption": "Jigra",
+      "youtubeLink": "https://www.youtube.com/embed/K24lUqcT0Ms",
+      "timeStamp": "12/29/2024, 6:39:28 PM GMT+5:30"
+    },
+    {
+      "id": "0904",
+      "caption": "Rio 2",
+      "youtubeLink": "https://www.youtube.com/embed/hnICGugY6fI",
+      "timeStamp": "12/30/2024, 12:09:14 PM GMT+5:30"
+    },
+    {
+      "id": "a032",
+      "caption": "Kal Ho Naa Ho",
+      "youtubeLink": "https://www.youtube.com/embed/tVMAQAsjsOU",
+      "timeStamp": "12/30/2024, 12:11:58 PM GMT+5:30"
+    },
+    {
+      "id": "823f",
+      "caption": "Jigra",
+      "youtubeLink": "https://www.youtube.com/embed/K24lUqcT0Ms",
+      "timeStamp": "12/30/2024, 12:20:13 PM GMT+5:30"
+    },
+    {
+      "id": "0047",
+      "caption": "Jigra",
+      "youtubeLink": "https://www.youtube.com/embed/K24lUqcT0Ms",
+      "timeStamp": "12/30/2024, 12:21:50 PM GMT+5:30"
+    },
+    {
+      "id": "2a7a",
+      "caption": "css",
+      "youtubeLink": "https://www.youtube.com/embed/K24lUqcT0Ms",
+      "timeStamp": "12/30/2024, 12:24:22 PM GMT+5:30"
+    }
+  ]
+}
